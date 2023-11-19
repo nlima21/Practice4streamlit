@@ -1,5 +1,5 @@
 import streamlit as st
-from datetime import data
+from datetime import date
 
 
 st.title("Practice Streamlit")
