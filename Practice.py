@@ -15,5 +15,5 @@ last_name = st.text_input('Last Name')
 major = st.selectbox('What is your major', 
                      ["","CS", "IT", "Math", "DS"])
 
-date_started = st.date_input("Please put date")
+date_started = st.date_input("Please put Date")
 today = date.today().year
