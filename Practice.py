@@ -33,3 +33,5 @@ if campuses_map:
 [25.772754, -80.134411],
 [25.781113, -80.132460]])
 columns=['lat','lon'])
+
+st.map(map_data)
